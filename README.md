@@ -1,6 +1,4 @@
-# Scientific-Programming-in-C         
-
-# Instructor: J. Farley Norman, Ph.D.
+# Scientific Programming in C   Instructor: J. Farley Norman, Ph.D.
 
 Project 1 - Write a program that reads in a data file (using fopen) and then calculates and prints out the mean, standard deviation, and standard error.
 
